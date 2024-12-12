@@ -58,12 +58,13 @@ In this project, we use:
 ---
 
 ## 🚀 How to Explore
-Check out the Tableau Dashboard:
 You can access the Power BI Dashboard here:
 [Link to Power BI](https://app.powerbi.com/view?r=eyJrIjoiZmM4ODUyZWItNDFhYS00NmM3LTkwNjktNDUyNWQ0MzJmZTM2IiwidCI6IjZlZmQwZjIwLTU3YzgtNDQ0Ny1iNTNmLTAwZDQ5OTJjYTUwYiJ9)
 
 Access the Excel Workbook:
 The processed dataset can be found in the repository.
 
-   ```bash
-   git clone https://github.com/yourusername/titanic-data-analysis.git
+---
+
+## 📝 Reflection
+This project was a valuable learning experience in data analysis and visualization, using the Titanic dataset to explore key patterns and insights. By working with Excel and Power BI, I gained hands-on experience in data cleaning, transformation, and creating interactive visualizations. Analyzing factors like survival rates, gender, class, and age not only deepened my understanding of the data but also highlighted the real-world implications behind the numbers. This project reinforced the importance of storytelling through data and gave me a deeper appreciation for how data visualization can make complex historical events more accessible and meaningful.
