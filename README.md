@@ -66,5 +66,27 @@ The processed dataset can be found in the repository.
 
 ---
 
+## 🤵🏽 **Professional Skills Used**
+
+### 🔍 **Attention to Detail**  
+- Ensured the accuracy of data cleaning and transformation in Excel.  
+- Refined visualizations in Power BI to ensure they were clear, precise, and easy to understand.
+
+### 🕒 **Time Management**  
+- Organized the workflow effectively by balancing tasks such as data exploration, cleaning, analysis, and report creation.  
+- Managed time efficiently to meet project deadlines while ensuring the quality of each step.
+
+### 🧠 **Personal Skills**
+
+#### ✨ **Creativity**  
+- Designed engaging and informative visualizations in Power BI to highlight important patterns from the Titanic dataset.  
+- Presented data in a visually appealing way to tell a meaningful story about survival rates, passenger demographics, and key factors influencing survival.
+
+#### 🌟 **Adaptability & Learning**  
+- Learned new features and techniques in Power BI to enhance the functionality and interactivity of the visualizations.  
+- Adapted to challenges such as handling missing data and transforming variables to fit the visualizations effectively.
+
+---
+
 ## 📝 Reflection
 This project was a valuable learning experience in data analysis and visualization, using the Titanic dataset to explore key patterns and insights. By working with Excel and Power BI, I gained hands-on experience in data cleaning, transformation, and creating interactive visualizations. Analyzing factors like survival rates, gender, class, and age not only deepened my understanding of the data but also highlighted the real-world implications behind the numbers. This project reinforced the importance of storytelling through data and gave me a deeper appreciation for how data visualization can make complex historical events more accessible and meaningful.
